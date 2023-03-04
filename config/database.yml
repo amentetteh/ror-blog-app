@@ -23,7 +23,10 @@ default: &default
 
 development:
   <<: *default
-  database: ror_blog_app_development
+  database: ror_blog_app
+  username: postgres
+  password: postgres
+  host: localhost
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
