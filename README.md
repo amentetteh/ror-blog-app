@@ -110,8 +110,8 @@ To run the project, execute the following command:
 👤 **Amen TETTEH**
 
 - GitHub: [@amentetteh](https://github.com/amentetteh)
-- Twitter: [@amentetteh8](https://twitter.com/amentetteH)
-- LinkedIn: [Amen TETTEH](https://www.linkedin.com/in/amentetteh/)
+- Twitter: [@amentetteh](https://twitter.com/amentetteh)
+- LinkedIn: [Amen TETTEH](https://www.linkedin.com/in/amentetteh)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
