@@ -107,7 +107,7 @@ To run the project, execute the following command:
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Abeera Tahir**
+👤 **Amen TETTEH**
 
 - GitHub: [@amentetteh](https://github.com/amentetteh)
 - Twitter: [@amentetteh8](https://twitter.com/amentetteH)
