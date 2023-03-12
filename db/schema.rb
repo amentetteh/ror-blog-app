@@ -12,7 +12,6 @@
 
 ActiveRecord::Schema[7.0].define(version: 2023_03_04_044058) do
   # These are extensions that must be enabled in order to support this database
-  enable_extension "adminpack"
   enable_extension "plpgsql"
 
   create_table "comments", force: :cascade do |t|
@@ -43,10 +42,6 @@ ActiveRecord::Schema[7.0].define(version: 2023_03_04_044058) do
     t.datetime "updated_at", null: false
     t.bigint "author_id"
     t.index ["author_id"], name: "index_posts_on_author_id"
-  end
-
-  create_table "products", id: :serial, force: :cascade do |t|
-    t.string "name", limit: 255
   end
 
   create_table "users", force: :cascade do |t|
